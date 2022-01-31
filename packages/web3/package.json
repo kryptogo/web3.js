@@ -63,5 +63,6 @@
         "dtslint": "^3.4.1",
         "typescript": "^3.9.5",
         "web3-core-helpers": "1.7.1"
-    }
+    },
+    "gitHead": "fe97d4877532174203bb97f18b315bb42317febc"
 }
