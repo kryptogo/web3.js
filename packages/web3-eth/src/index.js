@@ -99,8 +99,8 @@ var Eth = function Eth() {
     var defaultBlock = 'latest';
     var transactionBlockTimeout = 50;
     var transactionConfirmationBlocks = 24;
-    var transactionPollingTimeout = 750;
-    var transactionPollingInterval = 1000;
+    var transactionPollingTimeout = 75000;
+    var transactionPollingInterval = 100000;
     var blockHeaderTimeout = 10; // 10 seconds
     var maxListenersWarningThreshold = 100;
     var defaultChain, defaultHardfork, defaultCommon;
